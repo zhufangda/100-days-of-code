@@ -19,7 +19,7 @@ This the future 100 days, I will study how to use python for data science. I wil
 **Link to work:** [Chapiter 3](https://github.com/zhufangda/Exercise/blob/master/python/Chapiter%203%20Built-in%20Data%20Structures%2C%20Functions%2C%20and%20Files.ipynb)
 
 
-### Day 2: September 20, 2018
+### Day 3: September 21, 2018
 
 **Today's Progress**: I read the rest  of chapter 3 and try all the code proposed by the book. There is no difficulty in this chapter.
 
