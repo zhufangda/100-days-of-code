@@ -26,3 +26,12 @@ This the future 100 days, I will study how to use python for data science. I wil
 **Thoughts:** I am always tired and sick.
 
 **Link to work:** [Chapiter 3](https://github.com/zhufangda/Exercise/blob/master/python/Chapiter%203%20Built-in%20Data%20Structures%2C%20Functions%2C%20and%20Files.ipynb)
+
+
+### Day 4: September 22, 2018
+
+**Today's Progress**: I read the section 1 of chapter 3(from page 85 to page 105) and try all the code proposed by the book.
+
+**Thoughts:** This part is a little boring.
+
+**Link to work:** [Chapiter 4](https://github.com/zhufangda/Exercise/blob/master/python/Chapiter_4_Numpy_Basics_Arrays_and_Vectorized_Computation.ipynb)
