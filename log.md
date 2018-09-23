@@ -30,8 +30,17 @@ This the future 100 days, I will study how to use python for data science. I wil
 
 ### Day 4: September 22, 2018
 
-**Today's Progress**: I read the section 1 of chapter 3(from page 85 to page 105) and try all the code proposed by the book.
+**Today's Progress**: I read the section 1 of chapter 4(from page 85 to page 105) and try all the code proposed by the book.
 
 **Thoughts:** This part is a little boring.
+
+**Link to work:** [Chapiter 4](https://github.com/zhufangda/Exercise/blob/master/python/Chapiter_4_Numpy_Basics_Arrays_and_Vectorized_Computation.ipynb)
+
+
+### Day 5: September 23 2018
+
+**Today's Progress**: I read the section 2 of chapter 4(from page 105 to page 115) and try all the code proposed by the book.
+
+**Thoughts:** This part is important, so I decide to spend more time on it. 
 
 **Link to work:** [Chapiter 4](https://github.com/zhufangda/Exercise/blob/master/python/Chapiter_4_Numpy_Basics_Arrays_and_Vectorized_Computation.ipynb)
