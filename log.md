@@ -53,3 +53,13 @@ This the future 100 days, I will study how to use python for data science. I wil
 **Thoughts:** In this section, I find the numpy is very efficient. The array opreation could replace the loop statement whit high performence.
 
 **Link to work:** [Chapiter 4](https://github.com/zhufangda/Exercise/blob/master/python/Chapiter_4_Numpy_Basics_Arrays_and_Vectorized_Computation.ipynb)
+
+
+
+### Day 7: Octobre 2 2018
+
+**Today's Progress**: I finish the chapter 5 and try all the code proposed by the book.
+
+**Thoughts:** In this period, I was tired. So the program is interrupted for some days.
+
+**Link to work:** [Chapiter 5](https://github.com/zhufangda/Exercise/blob/master/python/Chapiter-5-Getting_Started_with_pandas.ipynb)
